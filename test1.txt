@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is DC74-D780
-
- Directory of C:\Users\Hemanth\Desktop\Mysecondproject
-
-01/03/2021  02:30 PM    <DIR>          .
-01/03/2021  02:30 PM    <DIR>          ..
-01/03/2021  02:30 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  11,954,778,112 bytes free
+Hello this is my second project
